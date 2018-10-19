@@ -1,0 +1,2 @@
+this is a licence file for git.
+hello world!
